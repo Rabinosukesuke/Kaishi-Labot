@@ -12,7 +12,7 @@ docker-compose up
 ```
 3. コンテナにアタッチ
 ```sh
-docker exec -it mobile-app-react-native sh
+docker exec -it kaishi-labot sh
 ```
 4. npm install
   ```sh
