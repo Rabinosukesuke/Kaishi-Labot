@@ -2,7 +2,7 @@
   "expo": {
     "name": "kaishi-labot",
     "slug": "kaishi-labot",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -28,6 +28,17 @@
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "68897025-9ced-4ab7-9aa7-0500cb1ef644"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/68897025-9ced-4ab7-9aa7-0500cb1ef644"
+    }
   }
 }

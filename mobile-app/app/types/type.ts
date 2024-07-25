@@ -1,3 +1,4 @@
-export type RootStackParamList = {
-    ChatScreen: undefined;
-};
+// export type RootStackParamList = {
+//     ChatScreen: undefined;
+//     SettingsScreen: undefined;
+// };
